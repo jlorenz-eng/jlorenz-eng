@@ -2,7 +2,7 @@
 
 I'm studying Applied Computer Science (M.Sc.) at Chemnitz University of Technology, focusing on embedded systems. I'm interested in software engineering, particularly the use of Behavior Trees for autonomous UAV mission control and how to further improve their effectiveness in this context.
 
-Alongside my studies, I work as a research assistant at the Chair of Computer Engineering. As part of the [**SmartCargoDrone**](https://www.tu-chemnitz.de/informatik/ce/projects/smartcargodrone.php) project, I'm developing a Mission Control System based on ROS 2 and Behavior Trees. In addition to software development, I supervise practical sessions for the Master's course Automotive Software Engineering.
+Alongside my studies, I work as a research assistant at the Chair of Computer Engineering. As part of the [SmartCargoDrone](https://www.tu-chemnitz.de/informatik/ce/projects/smartcargodrone.php) project, I'm developing a Mission Control System based on ROS 2 and Behavior Trees. In addition to software development, I supervise practical sessions for the Master's course Automotive Software Engineering.
 
 I also work in industrial software development. This includes the development of software interfaces for hardware systems.
 
