@@ -28,7 +28,6 @@ I also work in industrial software development. This includes the development of
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white)
 
 ## Beyond the Code
