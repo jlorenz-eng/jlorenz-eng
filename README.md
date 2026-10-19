@@ -40,4 +40,4 @@ Haru, my supervisor 🐈
 ## Contact
 
 - University email: [jonas.lorenz@s2022.tu-chemnitz.de](mailto:jonas.lorenz@s2022.tu-chemnitz.de)
-- I’m based near Chemnitz in Germany.
+- I’m based near Chemnitz in Germany
