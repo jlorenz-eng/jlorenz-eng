@@ -31,14 +31,13 @@ I also work in industrial software development. This includes the development of
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logoColor=white)
 
-I’m based near Chemnitz, Germany.
+## Beyond the Code
 
-## Debugging Assistant: Haru
-
-Meet Haru, my occasional debugging assistant :)
+Haru, my supervisor 🐈
 
 <img src="mietz.jpg" alt="Haru, my cat" width="300">
 
 ## Contact
 
-- University email: [jonas.lorenz@s2022.tu-chemnitz.de](mailto:jonas.lorenz@s2022.tu-chemnitz.de)
+- University email: [jonas.lorenz@s2022.tu-chemnitz.de](mailto:jonas.lorenz@s2022.tu-chemnitz.de
+- I’m based near Chemnitz in Germany.
