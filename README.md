@@ -27,7 +27,7 @@ I’m based near Chemnitz, Germany.
 
 ## Debugging Assistant: Haru
 
-Meet Haru, my occasional debugging assistant.
+Meet Haru, my occasional debugging assistant :)
 
 <img src="mietz.jpg" alt="Haru, my cat" width="300">
 
