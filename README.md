@@ -9,7 +9,7 @@ I also work in industrial software development. This includes the development of
 ## What I work on
 
 - **Autonomous systems:** mission execution and subsystem coordination
-- **Software architecture:** modular, extensible and reusable components
+- **Software architecture:** modular, extensible and reusable components. I mean everyone likes a good architecture ;)
 - **Embedded and industrial software:** C/C++, C#, Python and build systems
 - **Formal methods:** behavioral specification, model-driven development and verification
 
