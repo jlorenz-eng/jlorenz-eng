@@ -16,7 +16,7 @@ I also work in industrial software development. This includes the development of
 ## Projects and academic work
 
 - **Mission Control System for Autonomous Cargo Drones** - Ongoing bachelor's thesis on the design and prototype implementation of a ROS 2-based mission control system. Code and thesis will be made available here upon completion.
-- **[QKD Security Standardization](https://github.com/jlorenz-eng/qkd-security-standardization)** - Comparative analysis of ISO/IEC 23837-1 and ETSI GS QKD 016 based on the Common Criteria.
+- **[Quantum Key Distribution Security Standardization](https://github.com/jlorenz-eng/qkd-security-standardization)** - Comparative analysis of ISO/IEC 23837-1 and ETSI GS QKD 016 based on the Common Criteria.
 - **[CLP(FD) vs. CP-SAT](https://github.com/jlorenz-eng/Vergleich-CLP-FD-und-CP-SAT)** - Systematic  comparison of constraint-solving approaches with benchmarks based on N-Queens and the 7-11 problem.
 
 ## Technologies
