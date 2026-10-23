@@ -1,4 +1,4 @@
-# Hi, I'm Jonas!
+# Hi!
 
 I'm studying Applied Computer Science (M.Sc.) at Chemnitz University of Technology, focusing on embedded systems. I'm interested in software engineering, particularly the use of Behavior Trees for autonomous UAV mission control and how to further improve their effectiveness in this context.
 
